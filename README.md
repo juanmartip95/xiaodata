@@ -1,6 +1,6 @@
 # xiaodata
 Overview
-This script is designed to [provide a brief explanation of its primary function or goal]. It reads data from a CSV file, performs data cleaning and normalization, conducts analysis, and generates visualizations.
+This script is designed to visualize and analyse decay real data. It reads data from a CSV file, performs data cleaning and normalization, conducts analysis, and generates visualizations.
 
 Prerequisites
 Ensure you have the following installed:
